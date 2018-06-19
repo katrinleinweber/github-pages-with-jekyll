@@ -1,3 +1,3 @@
-# github-pages-with-jekyll
+# Github Pages with Jekyll
 
 A Pages demo.
